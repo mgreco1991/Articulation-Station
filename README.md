@@ -1,0 +1,2 @@
+# Articulation-Station
+This is an application that allows the user (theoretically a speech therapist) to utilize built-in decks of sound-targeted flashcards to help their client(s) with speech sound practice. Each card has its corresponding word displayed at the top, a button which can be pressed to hear the word spoken, and a visual scaffold in the form of a corresponding picture. If the client struggles with any particular sound, each card also contains a button that will toggle a cross-section view of the articulators making the target sound.
